@@ -12,5 +12,5 @@ Environment: Google ColabKey
 Libraries: Pandas, Scikit-learn, Seaborn, Matplotlib
 👤 Internship DetailsIntern: Yalda Ashrafi
 
-Organization: Arch Technologies
-Domain: Machine Learning & Data Science
+### Organization: Arch Technologies
+### Domain: Machine Learning & Data Science
